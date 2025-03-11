@@ -1,5 +1,5 @@
 # Human-assembly-intention-recognition dataset
-There are mainly three folders, namely dataset acquisition software, dataset annotatation sofrtware, and benchmark algorithms. The dataset will be uploaded.
+There are mainly three folders, namely dataset acquisition software, dataset annotatation sofrtware, and benchmark algorithms. The dataset details and acquisition can be found in https://mdx-box.github.io/MCV_Intention.
 ## 1. Dataset acquisition
 The dataset acquisition software developed based on PyQT is capable of collecting data across six modalities: RGB, skeleton, depth, optical flow, infrared, and mask, in addition to a top-down perspective data. 
 ## 2. Dataset annotatation sofrtware
