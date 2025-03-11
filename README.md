@@ -17,7 +17,7 @@ The dataset annotation software is primarily designed for detailed labeling of i
 
 ## 3. Benchmark algorithms
 Algorithms can be used with following steps:
-'''python
+```python
 pip install -r requirements.txt
 python xxx.py
-'''
+
